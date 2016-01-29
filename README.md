@@ -1,6 +1,6 @@
 # MySQLEditor #
 ######**[Web-pages](http://java-virys.narod.ru/ "javavirys")**######
-######**[Super Web-pages](http://java-virys.narod.ru/ "javavirys")**######
+######**[Super Web-pages](http://srcblog.ru/ "javavirys")**######
 ###### eng ######
 An example of a simple MySQL database table editor.
 ### Requirements: ###
@@ -9,9 +9,9 @@ An example of a simple MySQL database table editor.
 
 ***
 ###### rus ######
-Ïðèìåð ïðîñòîãî ðåäàêòîðà òàáëèö ÑÓÁÄ  MySQL.
-### Òðåáîâàíèÿ: ###
->	Net Framework 4.0 è âûøå;
+ÐŸÑ€Ð¸Ð¼ÐµÑ€ Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ð³Ð¾ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ð° Ñ‚Ð°Ð±Ð»Ð¸Ñ† Ð¡Ð£Ð‘Ð”  MySQL.
+### Ð¢Ñ€ÐµÐ±Ð¾Ð²Ð°Ð½Ð¸Ñ: ###
+>	Net Framework 4.0 Ð¸ Ð²Ñ‹ÑˆÐµ;
 >	MySQL connector 6.8.7
 
 
